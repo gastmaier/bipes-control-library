@@ -1,0 +1,3 @@
+[submodule "micropython-simple-pid"]
+	path = micropython-simple-pid
+	url = git@github.com:JorgeGMarques/micropython-simple-pid.git
